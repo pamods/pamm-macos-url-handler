@@ -11,11 +11,11 @@
 	<key>CFBundleIconFile</key>
 	<string>applet</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.pamods.pastats.startpa</string>
+	<string>com.wondible.pa.startpamm</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>startpa</string>
+	<string>startpamm</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -46,14 +46,14 @@
 	</dict>
 	<key>CFBundleURLTypes</key>
 	<array>
-	  <dict>
-	    <key>CFBundleURLName</key>
-	    <string>Start PA</string>
-	    <key>CFBundleURLSchemes</key>
-	    <array>
-	      <string>startpa</string>
-	    </array>
-	  </dict>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>Start PAMM</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>pamm</string>
+			</array>
+		</dict>
 	</array>
 </dict>
 </plist>
